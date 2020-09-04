@@ -1,0 +1,11 @@
+{
+  "name": "scraper-builder",
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "cd client && npm run serve",
+    "server": "cd server && npm start",
+    "dev:server": "cd server && npm run dev"
+  },
+  "author": "RK Anik",
+  "dependencies": {}
+}

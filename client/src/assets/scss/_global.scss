@@ -1,0 +1,14 @@
+body {
+    font-family: "Inter", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: var(--txt-primary);
+    background-color: var(--bg-primary);
+    font-size: 0.8125rem;
+}
+
+.resizable-component > .resizable-r {
+    cursor: col-resize !important;
+    width: 12px !important;
+    padding: 0 !important;
+}

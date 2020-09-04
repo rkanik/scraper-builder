@@ -1,0 +1,17 @@
+html,
+html[data-theme="light"] {
+    --bg-primary: white;
+    --bg-secondary: #242424;
+    --txt-primary: #212121;
+    --divider: #dadce0;
+    --border: #dadce0;
+}
+
+html[data-theme="dark"] {
+    --bg-primary: #151515;
+    --bg-secondary: #242424;
+    --txt-primary: #e0e0e0;
+    --divider: rgb(36, 36, 36);
+    --border: rgb(36, 36, 36);
+    --accent: #009688;
+}
